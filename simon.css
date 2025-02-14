@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    border: solid black 5px;
+    border-radius: 20px;
+
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #20c4a0;
+}
+.purple{
+    background-color: #8b13e1;
+}
+
+.flash{
+    background-color: white;
+}
+
+.user{
+    background-color: rgb(9, 199, 91);
+}
+
+.scar{
+    position: absolute;
+    top: 0px;
+    right: 30%;
+}
