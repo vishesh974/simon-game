@@ -1,2 +1,2 @@
-# simon-game
-this is simon game 
+# Simon-game
+this is Simon game.
